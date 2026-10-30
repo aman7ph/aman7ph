@@ -1,16 +1,13 @@
-## Hi there 👋
+# Amanuel
 
-<!--
-**aman7ph/aman7ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering lead at Brothers IT PLC, Addis Ababa. I build backend and
+full-stack systems in Python and TypeScript, and lately Rust.
 
-Here are some ideas to get you started:
+now: exploring agent systems and MCP · building tsundoku
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+projects
+- Enodia — per-app network access control for Windows
+- Grammateus — free YouTube transcript downloader
+- tsundoku — <one line on what it is>
+
+elsewhere: portfolio · Telegram · LinkedIn
